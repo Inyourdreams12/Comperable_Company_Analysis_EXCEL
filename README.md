@@ -26,6 +26,17 @@ Excel: Data Assumption, Quartile, Median, Average, MAX, MIN <br/>
    *Price to Earnings ratio (P/E): Share price divided by earnings per share OR market capitalization divided by net income <br/>
    *EV/Revenue: Enterprise value divided by revenue <br/>
    *EV/EBITDA: Enterprise Value divided by Earnings Before Interest Tax Depreciation and Amortization (EBITDA) <br/>
-3. Implied Value Per Share: The Excel tool calculates the Implied Value Per Share range for the target company based on the valuation multiples of the comparable companies.
+3. Implied Value Per Share: calculates the Implied Value Per Share range for the target company based on the valuation multiples of the comparable companies.
 
 <img width="1479" alt="image" src="https://github.com/Inyourdreams12/Comperable_Company_Analysis_EXCEL/assets/119731058/dcffd45b-f4bc-4834-a45f-ed4cb66b1531">
+<pre>
+
+
+
+
+   
+</pre>
+# Conclustion:
+The target company "Enjoy Coffee" has the Implied Value Per Share is around 9 to 13, which seem to be in line with the current share price of 11,4
+This could suggest that the market has already priced the stock fairly, considering its relative performance compared to the peer group. Investors may see this as an indication that the stock is reasonably priced given the industry and market conditions.
+Consider other Valuation Factors like Discounted Cash Flow (DCF) analysis or examining recent financial performance and future growth prospects could further refine the valuation estimate.
